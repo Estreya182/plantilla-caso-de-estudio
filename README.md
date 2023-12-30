@@ -1,1 +1,1 @@
-# plantilla-caso-de-estudio
+# googlelens-vs-mobilenet
